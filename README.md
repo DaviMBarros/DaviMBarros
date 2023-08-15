@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Olá, Tudo bem?! Meu nome é Davi e tenho 19 anos</h2>
+<h2 align="left">Davi Barros aqui 👋</h2>
 
 ###
 
@@ -24,15 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">Me chamo Davi, tenho 19 anos e moro em Campo Largo - PR. Desde pequeno, sempre gostei muito do mundo da tecnologia. Passava horas e horas imerso nesse universo, seja jogando, estudando, assistindo séries e filmes. A tecnologia sempre me encantou.<br>Esses motivos me inspiraram profundamente e despertaram em mim o desejo de me tornar um programador. A ideia de trabalhar com o que amo, ter a liberdade de trabalhar de casa ou até mesmo de mudar de localização, e a possibilidade de criar soluções inovadoras para pessoas e empresas me cativaram intensamente. A constante evolução e atualização no mercado também são aspectos que me atraem.</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left"></h2>
 
 ###
 
