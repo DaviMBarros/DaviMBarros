@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">📚 Desenvolvedor Fullstack em formação na Kenzie Academy Brasil. E também cursando Java pela Udemy.</p>
-<p align="left">🎯 Possuo conhecimentos em.</p>
+<p align="left">🎯 Possuo conhecimentos em:</p>
 
 ###
 
