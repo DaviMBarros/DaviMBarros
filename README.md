@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 <p align="left">Telefone: (41) 99634-3855<br>email: davimatiasdebarros@gmail.com</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-matias-de-barros-764a68263/)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-matias-de-barros-764a68263/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541996343855)
 
 ###
